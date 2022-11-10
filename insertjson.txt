@@ -1,0 +1,23 @@
+{ 
+        "nome": "PessoaTeste 2",
+        "idade": 18,
+        "cpf": "223.756.848-01",
+        "email": "testmail@fake.no",
+        "rg": "1024440",
+        "sexo": "sim",
+        "situacao_idsituacao": 1
+         
+    }
+
+
+{ 
+
+        "tipoveiculo": "Teste 2",
+        "descricao": "teste",
+        "marca": "toy yoda",
+        "placa": "acb123",
+        "quilometragem": 180,
+        "pessoa_idcliente": 2,
+        "situacao_idsituacao": 1
+         
+    }
